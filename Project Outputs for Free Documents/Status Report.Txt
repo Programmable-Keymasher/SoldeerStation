@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCBSoldeerStation.PcbDoc]
+   Generated File[PCBSoldeerStation-RoundHoles.TXT]
+   Generated File[PCBSoldeerStation-SlotHoles.TXT]
+   Generated File[PCBSoldeerStation.LDP]
+   Generated File[PCBSoldeerStation.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:39:22 On 06/05/2022
